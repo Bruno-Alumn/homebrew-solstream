@@ -12,4 +12,4 @@ The PC needs SolStream too: run `SolStreamSetup` from the
 
 SolStream updates itself from new releases. The cask here comes from
 `packaging/solstream.rb` in the main repository, and
-`scripts/update-cask.sh --push` there brings it up to a new release.
+`scripts/update-packages.sh --push` there brings it up to a new release.
